@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/default_border.xml" value="0.3615" />
+        <entry key="app/src/main/res/drawable/selected_option_border.xml" value="0.291" />
+        <entry key="app/src/main/res/drawable/win_border.xml" value="0.291" />
+        <entry key="app/src/main/res/drawable/wrong_border.xml" value="0.291" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_quiz_questions.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/finish_activity.xml" value="0.20612813370473537" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
